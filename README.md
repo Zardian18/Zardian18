@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Zardian18
-- 👀 I’m interested in game development and 3D modeling
-- 🌱 I’m currently working at Alfaleus Technology as a Unity Developer.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Machine learning and Game Development
 - 📫 How to reach me : https://zardian18.github.io/portfolio_2
 
 <!---
